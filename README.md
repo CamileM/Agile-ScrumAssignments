@@ -73,7 +73,7 @@ Three Pillars of Empiricism: working in a experience and evidence based on manne
 - Inspection: Inspection is not done by an inspector but by everyone on the Scrum Team. The inspection can be done for the product, processes, people aspects, practices.
 - Adaptation: Adaptation is about continuous improvement, to adapt based on the results of the inspection. Everyone should reflect on how to improve.
 
-### SCRUM ROLES
+### Roles in Scrum
 
 Product Owner:
 - Key stakeholder who should have deep understanding of the product and communicates with both the team and other stakeholders.
@@ -84,9 +84,10 @@ Scrum Team:
 - All doing whatever it takes to complete the agreed tasks
 - Everyone is not just committed, they are involved
 
-. Scrum Artefacts
+### Scrum Artefacts
 
 Product Backlog:
 - Contains all of the stories to be done to complete the entire product
 
 Sprint Backlog:
+- 
